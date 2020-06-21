@@ -23,12 +23,12 @@ Compendium of robotic projects in ROS
 
 # Projects
 
-Simple Lane Detection | Advanced Lane Detection 
+Gazebo World | Ball Follower 
 :---:|:---:
 <a href=https://github.com/laygond/GazeboProject> <img src="./README_images/gazebo.gif" width="480" height="270"> </a> | <a href=https://github.com/laygond/Ball-Follower-Robot> <img src="./README_images/ball_follower.gif" width="480" height="270"> </a> 
 
 
-Traffic Sign Classifier | Behavioral Clonning
+Adaptive Monte Carlo Localization | Graph SLAM RTAB map
 :---:|:---:
 <a href=https://github.com/laygond/Adaptive-Monte-Carlo-Localization> <img src="./README_images/AMCL.gif" width="480" height="270"> </a> | <a href=https://github.com/laygond/GraphSLAM-RTABmap> <img src="./README_images/RTAB.gif" width="480" height="270"> </a> 
 
